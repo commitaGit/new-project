@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b126a72-afad-411c-8829-5cbaa0378999" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/aaa.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/aaa.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/aaa.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +17,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="19" selection-start-column="19" selection-end-column="19" />
+                <caret column="13" selection-start-column="13" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -64,29 +64,6 @@
               <item name="new-project" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="new-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-project" type="462c0819:PsiDirectoryNode" />
-              <item name="sbadmin2-1.0.7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-project" type="462c0819:PsiDirectoryNode" />
-              <item name="sbadmin2-1.0.7" type="462c0819:PsiDirectoryNode" />
-              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-project" type="462c0819:PsiDirectoryNode" />
-              <item name="sbadmin2-1.0.7" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-project" type="462c0819:PsiDirectoryNode" />
-              <item name="sbadmin2-1.0.7" type="462c0819:PsiDirectoryNode" />
-              <item name="less" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -94,6 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -156,7 +134,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="19" selection-start-column="19" selection-end-column="19" />
+            <caret column="13" selection-start-column="13" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
